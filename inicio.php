@@ -10,3 +10,9 @@
     
 </body>
 </html>
+
+<?php
+
+echo "hola";
+
+?>
